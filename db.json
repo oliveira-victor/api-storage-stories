@@ -1,0 +1,22 @@
+{
+    "stories": [
+        {
+            "id": 1,
+            "title": "Crossing The Dark Woods",
+            "image": "https://raw.githubusercontent.com/oliveira-victor/api-storage-stories/main/images/dark-woods.webp",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquam nisi sit amet odio pulvinar interdum. Nulla ultricies a lorem non convallis. Nullam ut mauris elit. Cras accumsan non lorem ultricies pretium. Vestibulum in libero in sapien dignissim condimentum eget sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquam nisi sit amet odio pulvinar interdum. Nulla ultricies a lorem non convallis. Nullam ut mauris elit. Cras accumsan non lorem ultricies pretium. Vestibulum in libero in sapien dignissim condimentum eget sit amet nulla."
+        },
+        {
+            "id": 2,
+            "title": "Magic Floating Girl",
+            "image": "https://raw.githubusercontent.com/oliveira-victor/api-storage-stories/main/images/magic-floating-girl.webp",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquam nisi sit amet odio pulvinar interdum. Nulla ultricies a lorem non convallis. Nullam ut mauris elit. Cras accumsan non lorem ultricies pretium. Vestibulum in libero in sapien dignissim condimentum eget sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquam nisi sit amet odio pulvinar interdum. Nulla ultricies a lorem non convallis. Nullam ut mauris elit."
+        },
+        {
+            "id": 3,
+            "title": "Enchanted Harp",
+            "image": "https://raw.githubusercontent.com/oliveira-victor/api-storage-stories/main/images/enchanted-harp.webp",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquam nisi sit amet odio pulvinar interdum. Nulla ultricies a lorem non convallis. Nullam ut mauris elit. Cras accumsan non lorem ultricies pretium. Vestibulum in libero in sapien dignissim condimentum eget sit amet nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse aliquam nisi sit amet odio pulvinar interdum. Nulla ultricies a lorem non convallis. Nullam ut mauris elit. Cras accumsan non lorem ultricies pretium. "
+        }
+    ]
+}
